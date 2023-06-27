@@ -1,0 +1,16 @@
+C:\Users\janet\Desktop\claseErickTaco\Banco\Banco\Banco\bin\Debug\netstandard2.0\Banco.deps.json
+C:\Users\janet\Desktop\claseErickTaco\Banco\Banco\Banco\bin\Debug\netstandard2.0\Banco.dll
+C:\Users\janet\Desktop\claseErickTaco\Banco\Banco\Banco\bin\Debug\netstandard2.0\Banco.pdb
+C:\Users\janet\Desktop\claseErickTaco\Banco\Banco\Banco\obj\Debug\netstandard2.0\Banco.csproj.AssemblyReference.cache
+C:\Users\janet\Desktop\claseErickTaco\Banco\Banco\Banco\obj\Debug\netstandard2.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janet\Desktop\claseErickTaco\Banco\Banco\Banco\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\janet\Desktop\claseErickTaco\Banco\Banco\Banco\obj\Debug\netstandard2.0\Inicio.xaml.g.cs
+C:\Users\janet\Desktop\claseErickTaco\Banco\Banco\Banco\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\janet\Desktop\claseErickTaco\Banco\Banco\Banco\obj\Debug\netstandard2.0\Banco.AssemblyInfoInputs.cache
+C:\Users\janet\Desktop\claseErickTaco\Banco\Banco\Banco\obj\Debug\netstandard2.0\Banco.AssemblyInfo.cs
+C:\Users\janet\Desktop\claseErickTaco\Banco\Banco\Banco\obj\Debug\netstandard2.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\janet\Desktop\claseErickTaco\Banco\Banco\Banco\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\janet\Desktop\claseErickTaco\Banco\Banco\Banco\obj\Debug\netstandard2.0\Banco.dll
+C:\Users\janet\Desktop\claseErickTaco\Banco\Banco\Banco\obj\Debug\netstandard2.0\refint\Banco.dll
+C:\Users\janet\Desktop\claseErickTaco\Banco\Banco\Banco\obj\Debug\netstandard2.0\Banco.pdb
+C:\Users\janet\Desktop\claseErickTaco\Banco\Banco\Banco\obj\Debug\netstandard2.0\ref\Banco.dll

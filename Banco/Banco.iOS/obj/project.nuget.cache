@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ywX6eJj09e7GG6HFUSXMTL6CTeIqr830lZPqz1TrLSya02pSVBJUdaI2tKrupOQATeOWaEJOedm4YgGC8FUqVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\janet\\Desktop\\claseErickTaco\\Banco\\Banco\\Banco.iOS\\Banco.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\janet\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\janet\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\janet\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\janet\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

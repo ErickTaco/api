@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="Banco.Inicio"
+             NavigationPage.HasNavigationBar="False">
+
+    <StackLayout BackgroundColor="White">
+        <Label Text="BanKuy" TextColor="Black"
+               x:Name="id"
+               HorizontalOptions="Center" FontSize="24" FontAttributes="Bold" Margin="15"/>
+        <Frame HeightRequest="120" WidthRequest="500"
+               BackgroundColor="White"
+               HasShadow="True"  BorderColor="Transparent"
+               HorizontalOptions="CenterAndExpand">
+            <StackLayout>
+                <Label Text="HOLA" Margin="8" FontSize="25" TextColor="Black" ></Label>
+                <Label Text="ERICK" x:Name="nombreCliente" Padding="8"  FontSize="25" TextColor="Black" ></Label>
+            </StackLayout>
+        </Frame>
+        
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Mis productos" TextColor="Black" FontSize="20" FontAttributes="Bold" Margin="15"/>
+            <Button Text="Historal " BackgroundColor="Transparent" BorderColor="Transparent" TextColor="Black" FontSize="18" FontAttributes="Bold" Margin="15" HorizontalOptions="EndAndExpand"/>
+        </StackLayout>
+
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="StartAndExpand">
+            <Frame HeightRequest="180" WidthRequest="500"
+               BackgroundColor="#E4E4E4" Padding="10"
+               HasShadow="True" Margin="10" CornerRadius="10"
+               HorizontalOptions="CenterAndExpand">
+                <StackLayout>
+                    <Label Text="Cuenta de Ahorro" Margin="6" FontSize="20" TextColor="Black"></Label>
+                    <Label Text="Nro!" x:Name="idCuenta"   Margin="6" FontSize="18" TextColor="Black"></Label>
+                    <Label HorizontalOptions="EndAndExpand" Text="Saldo Disponible" Margin="6" FontSize="18" Padding="2" TextColor="Black"></Label>
+                    <Label HorizontalOptions="EndAndExpand" x:Name="monto" Text="15,30$" Margin="6" FontSize="20" TextColor="Black"></Label>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+        <Label Text="Acciones Disponibles" Margin="12" FontSize="20" TextColor="Black"></Label>
+
+        <StackLayout Orientation="Horizontal"  HorizontalOptions="CenterAndExpand" >
+           
+                <StackLayout>
+                    <Frame HeightRequest="100" WidthRequest="180"
+                        BackgroundColor="#E4E4E4" Padding="10"
+                  HasShadow="True" Margin="10" CornerRadius="10"
+                 HorizontalOptions="CenterAndExpand">
+                        <Label Text="Transacciones"></Label>
+                        
+                    </Frame>
+                </StackLayout>
+           
+                <StackLayout>
+                <Frame HeightRequest="100" WidthRequest="180"
+                        BackgroundColor="#E4E4E4" Padding="10"
+                  HasShadow="True" Margin="10" CornerRadius="10"
+                 HorizontalOptions="CenterAndExpand">
+                        <Label Text="Transacciones"></Label>
+                    </Frame>
+                </StackLayout>
+           
+        </StackLayout>
+
+    </StackLayout>
+    
+   
+</ContentPage>    
+    
